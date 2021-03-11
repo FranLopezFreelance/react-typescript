@@ -32,8 +32,11 @@ export const CustomHooks2 = (): JSX.Element => {
 
 			<p>Form info</p>
 
+<<<<<<< HEAD
 			<hr />
 
+=======
+>>>>>>> d523c47799ac16ce95d36c910a13640b96831ad9
 			<pre>{JSON.stringify(form)}</pre>
 		</div>
 	);
